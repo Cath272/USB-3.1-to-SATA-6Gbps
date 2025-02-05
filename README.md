@@ -37,20 +37,13 @@ High Speed diferential lines need a refrence ground plane so internal planes are
 
 The Pcb was inspired by similar boards that use VL711/VL715 Ics. The capacitors are standard values that are use as decoupling capacitors.
 
-THE DESIGN IS NOT FINAL! KNOW PROBLEMS:
-
-- Abias Resistor value to be determined, used value of ASM1153E/ASM1053E family of ic until i can get my hands on a board that has an VL ic.
+THE DESIGN IS NOT FINAL! KNOWN PROBLEMS:
 
 - Inductor Value to be determined
 
-Diferential Pairs Impedance:
-
-- SuperSpeed Pairs Impedance: ~90 Ohm
-
-- Sata Pairs Impedance: ~90 Ohm (Spec is 100 Ohms, pcb needs to be modified)
 
 ### Schematic:
-![USB 3 0 to Sata](https://github.com/user-attachments/assets/0a3b7262-3c18-47a7-9b1f-60b850fa37d3)
+![Schematic](/USB%203.0%20to%20Sata.pdf)
 
 ## PCB Screenshots
 
@@ -60,4 +53,4 @@ Diferential Pairs Impedance:
 ![usb3sataback3d](https://github.com/user-attachments/assets/3d53e79f-70f6-4c91-b8d8-962831fdac90)
 
 
-To Do: CC lines, Abias Resistor, Impedance, Inductor Value
+
