@@ -47,10 +47,10 @@ THE DESIGN IS NOT FINAL! KNOWN PROBLEMS:
 
 ## PCB Screenshots
 
-![usb3satafront](https://github.com/user-attachments/assets/e87a4e91-a3c0-4c74-8f43-9853ea00af32)
-![usb3sataback](https://github.com/user-attachments/assets/7e04f5d1-69bf-40e7-87a1-89096c32aa60)
-![usb3satafront3d](https://github.com/user-attachments/assets/a9bde4d8-fc9b-4837-9eaa-50a20a133ebf)
-![usb3sataback3d](https://github.com/user-attachments/assets/3d53e79f-70f6-4c91-b8d8-962831fdac90)
+![usb3satafront](pcb%20pics/front.png)
+![usb3sataback](pcb%20pics/back.png)
+![usb3satafront3d](pcb%20pics/front3d.png)
+![usb3sataback3d](pcb%20pics/back3d.png)
 
 
 
