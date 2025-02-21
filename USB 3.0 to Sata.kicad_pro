@@ -59,20 +59,26 @@
         }
       ],
       "drc_exclusions": [
-        "copper_edge_clearance|62700000|82740000|ef4c9254-b43f-45d5-9d41-aa6cf83dc8b2|d8bd260f-6182-4524-92f9-acda037e9f2b",
-        "copper_edge_clearance|63250000|83050000|ef4c9254-b43f-45d5-9d41-aa6cf83dc8b2|5cec227e-c777-4c90-849f-b02ea7dd6f8e",
-        "copper_edge_clearance|63930000|84000000|ef4c9254-b43f-45d5-9d41-aa6cf83dc8b2|f28977c4-0285-4dbe-8715-2ac32375e85f",
-        "lib_footprint_mismatch|59800000|87340000|33692ca5-b3f8-44ed-aea2-f63916f1c89c|00000000-0000-0000-0000-000000000000",
-        "silk_edge_clearance|39895000|53075000|25291c2e-bc80-4790-aa66-260ef6d174da|51b2ac8c-731d-48d9-83fc-76e2b6e0a91e",
-        "silk_edge_clearance|39895000|89375000|25291c2e-bc80-4790-aa66-260ef6d174da|89b50522-873e-48ae-963c-5fb3fa555fb0",
-        "silk_edge_clearance|40000000|53105000|25291c2e-bc80-4790-aa66-260ef6d174da|fe5c5d89-86ba-458d-810b-9a86c54a2ac4",
-        "silk_edge_clearance|40000000|89295000|25291c2e-bc80-4790-aa66-260ef6d174da|8c411ca4-0862-4a50-ace4-5af355f6787b",
-        "starved_thermal|51600000|62920000|8b6ae6e1-c724-4c30-8137-ff499f82896f|b76e20d2-2c98-47a8-b726-169a337daa70|B.Cu",
+        "annular_width|57000000|83900000|5bf44db7-fcf6-446d-8553-376ec22d5ca0|00000000-0000-0000-0000-000000000000",
+        "annular_width|57400000|84600000|eaeb26e1-1f6c-4316-b5fe-ef3eb660ef00|00000000-0000-0000-0000-000000000000",
+        "annular_width|58200000|84600000|a5bb0410-effc-4dd5-9368-7fc7eb9d58ec|00000000-0000-0000-0000-000000000000",
+        "annular_width|58600000|83900000|47fce6ff-224e-4f11-9ee9-81cf4e5fadc4|00000000-0000-0000-0000-000000000000",
+        "annular_width|59000000|84600000|59033fe7-4d02-45d8-a888-3473f3329196|00000000-0000-0000-0000-000000000000",
+        "annular_width|59400000|83900000|b1fa091e-8be4-4c29-9d21-d884b6a0cd78|00000000-0000-0000-0000-000000000000",
+        "annular_width|60200000|83900000|57c18bfc-f577-4571-ba74-d7cfbbb7a7b1|00000000-0000-0000-0000-000000000000",
+        "annular_width|60600000|84600000|633743f0-88bf-48dc-8d9b-c9b88b0681b5|00000000-0000-0000-0000-000000000000",
+        "annular_width|61000000|83900000|9906fe79-4648-41f2-b54d-f3c71cf21a27|00000000-0000-0000-0000-000000000000",
+        "annular_width|61400000|84600000|e7a1c8f8-e1cb-4605-b527-51d133d47d60|00000000-0000-0000-0000-000000000000",
+        "annular_width|62200000|84600000|e5f5e7d7-2c17-4f48-bd98-bce346516e15|00000000-0000-0000-0000-000000000000",
+        "annular_width|62600000|83900000|cbf435b2-35b9-467f-8ef1-55c960b1de1a|00000000-0000-0000-0000-000000000000",
+        "silk_edge_clearance|40000000|51280000|25291c2e-bc80-4790-aa66-260ef6d174da|fe5c5d89-86ba-458d-810b-9a86c54a2ac4",
+        "silk_edge_clearance|40000000|87470000|25291c2e-bc80-4790-aa66-260ef6d174da|8c411ca4-0862-4a50-ace4-5af355f6787b",
+        "silk_edge_clearance|55300000|90550000|674691b5-8b0a-4c5e-ae2c-6947679fd53a|3157d848-c5cf-4413-adf1-23f4501718d3",
+        "silk_edge_clearance|64300000|90550000|674691b5-8b0a-4c5e-ae2c-6947679fd53a|636711a0-e3e2-4fde-849e-a44775b4eca7",
         "starved_thermal|53180000|66100000|8b6ae6e1-c724-4c30-8137-ff499f82896f|b74dd53b-8eb8-45c4-85eb-ff0c20e340c2|F.Cu",
         "starved_thermal|55600000|68680000|8b6ae6e1-c724-4c30-8137-ff499f82896f|d4428370-3069-4299-8a75-91e5a848dab4|F.Cu",
-        "starved_thermal|57000000|83700000|8b6ae6e1-c724-4c30-8137-ff499f82896f|708544f5-7ebd-448f-ad9c-af2e25be7f6a|B.Cu",
-        "starved_thermal|57050000|82390000|8b6ae6e1-c724-4c30-8137-ff499f82896f|3debb0be-00c7-4295-8edf-9f0ba044e771|F.Cu",
-        "starved_thermal|62600000|83700000|8b6ae6e1-c724-4c30-8137-ff499f82896f|5cec227e-c777-4c90-849f-b02ea7dd6f8e|B.Cu"
+        "starved_thermal|57000000|83900000|8b6ae6e1-c724-4c30-8137-ff499f82896f|5bf44db7-fcf6-446d-8553-376ec22d5ca0|F.Cu",
+        "starved_thermal|62550000|82690000|8b6ae6e1-c724-4c30-8137-ff499f82896f|5f3529ce-595c-4fcf-8ea7-c1e4f6ef6094|F.Cu"
       ],
       "meta": {
         "version": 2
@@ -720,7 +726,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "./",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -734,6 +740,10 @@
     [
       "d16a0073-16ec-4e06-9818-25f50a2b72e0",
       "Root"
+    ],
+    [
+      "d348fa1f-cab9-40f0-813a-0a0a332dfd6d",
+      "VL716"
     ]
   ],
   "text_variables": {}
