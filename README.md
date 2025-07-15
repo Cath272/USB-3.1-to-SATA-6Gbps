@@ -1,5 +1,5 @@
 # USB-3.1-to-SATA-6Gbps
-USB 3.1(10Gbps, SuperSpeed 10Gbps, [USB 3.2 gen 2](https://external-preview.redd.it/aEU8RJTeqexdNhj47QB3PRV0-shMQXoTVqeNHO9yYpo.png?auto=webp&s=28028ef6d0fd850dfabad659cbfcc59d81c76829)) to SATA 6Gbps
+USB 3.2 gen 2 (SuperSpeed+ 10Gbps) to SATA 6Gbps
 
 This Board is based on the VIA Labs VL716 
 
@@ -19,7 +19,7 @@ This Board is based on the VIA Labs VL716
 - 25Mhz Crystal for Ic
 - Sata 22P horizontal female SMD connector
 - PM25LD512  512KB SPI Flash  Memory
-- ?uH Inductor (Value TBA)
+- 1.5uH/2.2uH Inductor
 - Power/Busy LEDs
 
 ## PCB 
@@ -36,10 +36,6 @@ This board uses a 4 layer stackup with a  1.6mm thickness:
 High Speed diferential lines need a refrence ground plane so internal planes are ground referance planes for the High speed USB lines
 
 The Pcb was inspired by similar boards that use VL711/VL715 Ics. The capacitors are standard values that are use as decoupling capacitors.
-
-THE DESIGN IS NOT FINAL! KNOWN PROBLEMS:
-
-- Inductor Value to be determined
 
 
 ### Schematic:
