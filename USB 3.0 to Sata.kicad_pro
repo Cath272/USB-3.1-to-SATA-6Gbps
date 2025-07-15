@@ -60,6 +60,18 @@
       ],
       "drc_exclusions": [
         [
+          "annular_width|42173534|52723023|ec0bedb0-f41c-42c3-b9bc-a31b031a1213|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "annular_width|42173534|85923023|9fe67cf0-d208-4d42-bd51-f0f9a8070cd1|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "annular_width|56200000|83250000|ae1f94ae-deab-45d0-9126-55f4489fe1bf|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
           "annular_width|57000000|83900000|5bf44db7-fcf6-446d-8553-376ec22d5ca0|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -108,11 +120,63 @@
           ""
         ],
         [
-          "silk_edge_clearance|40000000|51280000|25291c2e-bc80-4790-aa66-260ef6d174da|fe5c5d89-86ba-458d-810b-9a86c54a2ac4",
+          "annular_width|63550000|83250000|ede34bfb-dfd9-4772-b371-236c0c0fa920|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "silk_edge_clearance|40000000|87470000|25291c2e-bc80-4790-aa66-260ef6d174da|8c411ca4-0862-4a50-ace4-5af355f6787b",
+          "lib_footprint_issues|39558534|69348023|08ef75fb-4c5e-4a28-bb0b-93d4cf1843d6|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|53850000|53450000|58ec90ed-5e45-40a9-83ef-b4f31776e294|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|57677500|62900000|21e7db06-55db-4684-b1db-20e23b6619ff|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_issues|59800000|86470000|a9df175d-b00c-4317-af0c-14f50b9acd10|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "lib_footprint_mismatch|64200000|53750000|dac98445-b1d2-43b3-8203-5be4cf7c4ae5|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "padstack|42173534|52723023|ec0bedb0-f41c-42c3-b9bc-a31b031a1213|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "padstack|42173534|85923023|9fe67cf0-d208-4d42-bd51-f0f9a8070cd1|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "padstack|56200000|83250000|ae1f94ae-deab-45d0-9126-55f4489fe1bf|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "padstack|63550000|83250000|ede34bfb-dfd9-4772-b371-236c0c0fa920|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|39943534|51253023|25291c2e-bc80-4790-aa66-260ef6d174da|fe5c5d89-86ba-458d-810b-9a86c54a2ac4",
+          ""
+        ],
+        [
+          "silk_edge_clearance|39943534|87443023|25291c2e-bc80-4790-aa66-260ef6d174da|8c411ca4-0862-4a50-ace4-5af355f6787b",
+          ""
+        ],
+        [
+          "silk_edge_clearance|40000000|51253023|25291c2e-bc80-4790-aa66-260ef6d174da|cf8816d8-2576-43b8-a83f-3121b4d1b7e3",
+          ""
+        ],
+        [
+          "silk_edge_clearance|40000000|89550000|1f739bea-d957-4dbd-83e2-bc157b2456a5|48444f9c-1157-441f-a87a-1f8e870a478c",
+          ""
+        ],
+        [
+          "silk_edge_clearance|40000000|89550000|1f739bea-d957-4dbd-83e2-bc157b2456a5|85189a3c-f856-4d7f-96ee-6a5e789d9844",
           ""
         ],
         [
@@ -124,15 +188,23 @@
           ""
         ],
         [
+          "starved_thermal|45173534|59803023|8b6ae6e1-c724-4c30-8137-ff499f82896f|b32675bd-2ed2-4b64-9240-f0b22742a8e4|F.Cu",
+          ""
+        ],
+        [
+          "starved_thermal|47550253|65601515|8b6ae6e1-c724-4c30-8137-ff499f82896f|2cfea433-ba8d-42e7-a6a7-8e0127c442e0|F.Cu",
+          ""
+        ],
+        [
           "starved_thermal|53180000|66050000|8b6ae6e1-c724-4c30-8137-ff499f82896f|6fd83d8c-6fab-4c9d-a1dd-e7cec6476c0c|F.Cu",
           ""
         ],
         [
-          "starved_thermal|57000000|83900000|8b6ae6e1-c724-4c30-8137-ff499f82896f|5bf44db7-fcf6-446d-8553-376ec22d5ca0|F.Cu",
+          "starved_thermal|62550000|82690000|8b6ae6e1-c724-4c30-8137-ff499f82896f|5f3529ce-595c-4fcf-8ea7-c1e4f6ef6094|F.Cu",
           ""
         ],
         [
-          "starved_thermal|62550000|82690000|8b6ae6e1-c724-4c30-8137-ff499f82896f|5f3529ce-595c-4fcf-8ea7-c1e4f6ef6094|F.Cu",
+          "starved_thermal|63930000|84500000|8b6ae6e1-c724-4c30-8137-ff499f82896f|06cf87a3-dfa8-4c5b-ac26-b2e56a6c070a|F.Cu",
           ""
         ],
         [
@@ -189,6 +261,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -512,10 +585,15 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
+      "footprint_filter": "ignore",
+      "footprint_link_issues": "warning",
+      "four_way_junction": "ignore",
       "global_label_dangling": "warning",
       "hier_label_mismatch": "error",
       "label_dangling": "error",
+      "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
+      "lib_symbol_mismatch": "warning",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
@@ -528,9 +606,14 @@
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
+      "same_local_global_label": "warning",
+      "similar_label_and_power": "warning",
       "similar_labels": "warning",
+      "similar_power": "warning",
       "simulation_model_issue": "ignore",
+      "single_global_label": "ignore",
       "unannotated": "error",
+      "unconnected_wire_endpoint": "warning",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -544,7 +627,7 @@
   },
   "meta": {
     "filename": "USB 3.0 to Sata.kicad_pro",
-    "version": 1
+    "version": 3
   },
   "net_settings": {
     "classes": [
@@ -559,6 +642,7 @@
         "microvia_drill": 0.1,
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.6,
@@ -576,6 +660,7 @@
         "microvia_drill": 0.1,
         "name": "USB Data",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "via_diameter": 0.6,
@@ -584,7 +669,7 @@
       }
     ],
     "meta": {
-      "version": 3
+      "version": 4
     },
     "net_colors": null,
     "netclass_assignments": null,
@@ -763,6 +848,7 @@
       ],
       "filter_string": "",
       "group_symbols": true,
+      "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
@@ -797,6 +883,7 @@
     "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "./",
+    "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
