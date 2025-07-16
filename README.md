@@ -18,7 +18,7 @@ This Board is based on the VIA Labs VL716
 - USB C 24P Connector (THT inside pins)
 - 25Mhz Crystal for Ic
 - Sata 22P horizontal female SMD connector
-- PM25LD512  512KB SPI Flash  Memory
+- W25Q16BVSSIG 16Mbit SPI Flash  Memory
 - 1.5uH/2.2uH Inductor
 - Power/Busy LEDs
 
